@@ -1,4 +1,4 @@
-package com.accfcx.tomcat.base.socket;
+package com.accfcx.tomcat.socket;
 
 /**
  * @author accfcx
